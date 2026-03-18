@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary -->
+    <color name="primary">#FF1565C0</color>
+    <color name="primary_dark">#FF0D47A1</color>
+    <color name="primary_light">#FF42A5F5</color>
+    <color name="on_primary">#FFFFFFFF</color>
+
+    <!-- Secondary / Accent -->
+    <color name="secondary">#FF00BFA5</color>
+    <color name="secondary_dark">#FF00897B</color>
+    <color name="on_secondary">#FFFFFFFF</color>
+
+    <!-- Surface & Background -->
+    <color name="surface">#FF121212</color>
+    <color name="surface_variant">#FF1E1E2E</color>
+    <color name="surface_card">#FF252540</color>
+    <color name="surface_elevated">#FF2A2A4A</color>
+    <color name="background">#FF0A0A14</color>
+    <color name="on_surface">#FFFFFFFF</color>
+    <color name="on_surface_medium">#B3FFFFFF</color>
+    <color name="on_surface_low">#66FFFFFF</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#FF1565C0</color>
+    <color name="gradient_center">#FF7C4DFF</color>
+    <color name="gradient_end">#FF00BFA5</color>
+
+    <!-- Status -->
+    <color name="success">#FF4CAF50</color>
+    <color name="error">#FFEF5350</color>
+    <color name="warning">#FFFFA726</color>
+
+    <!-- Basics -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="scrim">#80000000</color>
+
+    <!-- Splash -->
+    <color name="splash_bg">#FF0A0A1A</color>
+
+    <!-- Filter chips -->
+    <color name="chip_selected">#FF1565C0</color>
+    <color name="chip_unselected">#FF2A2A4A</color>
+</resources>
