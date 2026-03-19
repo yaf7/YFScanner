@@ -34,7 +34,7 @@
 * **Platform:** Android SDK
 * **IDE:** Android Studio
 
-## 📸 Tampilan Aplikasi
+##  Tampilan Aplikasi
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9c4777f9-fba0-4364-83a7-b702ee650738" width="200" title="Splash Screen">
