@@ -1,6 +1,8 @@
 <div align="center">
 
-#  YFScanner
+# YFScanner
+**Developed by Deyafa Arsetya**
+
 **Solusi Digitalisasi Dokumen Cepat & Efisien untuk Android**
 
 [![Download APK](https://img.shields.io/badge/Download-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/yaf7/YFScanner/releases/latest)
@@ -18,7 +20,7 @@
 
 ---
 
-##  Fitur Utama
+## Fitur Utama
 
 * **Pemindaian Cerdas:** Deteksi tepi dokumen secara otomatis dengan pilihan mode *Manual* atau *Ambil Otomatis*.
 * **Pengaturan Kualitas:** Pilih kualitas gambar sesuai kebutuhan (**Low, Medium, High**).
@@ -28,13 +30,13 @@
 * **Pangkas & Putar:** Sesuaikan sudut dokumen dengan presisi sebelum disimpan.
 * **Scan Sejarah:** Kelola semua dokumen yang telah dipindai di satu tempat.
 
-##  Teknologi & Tools
+## Teknologi & Tools
 
 * **Bahasa Pemrograman:** Kotlin
 * **Platform:** Android SDK
 * **IDE:** Android Studio
 
-##  Tampilan Aplikasi
+## Tampilan Aplikasi
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9c4777f9-fba0-4364-83a7-b702ee650738" width="200" title="Splash Screen">
@@ -51,7 +53,7 @@
 
 ---
 
-##  Cara Instalasi
+## Cara Instalasi
 
 ### Untuk Pengguna (Install APK)
 1. Klik tombol **Download APK** di bagian atas halaman ini.
