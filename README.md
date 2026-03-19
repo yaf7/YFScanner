@@ -1,9 +1,18 @@
-# YFScanner 
+<div align="center">
 
-<p align="left">
+#  YFScanner
+**Solusi Digitalisasi Dokumen Cepat & Efisien untuk Android**
+
+[![Download APK](https://img.shields.io/badge/Download-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/yaf7/YFScanner/releases/latest)
+[![Version](https://img.shields.io/badge/Version-v1.0.0-7F52FF?style=for-the-badge)](https://github.com/yaf7/YFScanner/releases)
+
+<p align="center">
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 </p>
+
+---
+</div>
 
 **YFScanner** adalah aplikasi pemindai dokumen berbasis Android yang efisien dan minimalis. Aplikasi ini dikembangkan menggunakan **Kotlin** untuk membantu pengguna mendigitalkan dokumen fisik dengan cepat, rapi, dan berkualitas tinggi.
 
@@ -25,7 +34,7 @@
 * **Platform:** Android SDK
 * **IDE:** Android Studio
 
-##  Tampilan Aplikasi
+## 📸 Tampilan Aplikasi
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9c4777f9-fba0-4364-83a7-b702ee650738" width="200" title="Splash Screen">
@@ -40,11 +49,17 @@
   <img src="https://github.com/user-attachments/assets/606fc1e6-d38d-4e83-9603-c329a789b31f" width="200" title="Final Result">
 </p>
 
+---
+
 ##  Cara Instalasi
 
+### Untuk Pengguna (Install APK)
+1. Klik tombol **Download APK** di bagian atas halaman ini.
+2. Buka file `.apk` yang diunduh pada perangkat Android Anda.
+3. Izinkan instalasi dari "Sumber Tidak Dikenal" jika diminta.
+4. Aplikasi siap digunakan!
+
+### Untuk Developer (Clone Project)
 1. **Clone Repositori**
    ```bash
    git clone [https://github.com/yaf7/YFScanner.git](https://github.com/yaf7/YFScanner.git)
-
-
-
