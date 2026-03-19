@@ -1,4 +1,4 @@
-# YFScanner 📄
+# YFScanner 
 
 <p align="left">
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
@@ -9,7 +9,7 @@
 
 ---
 
-## ✨ Fitur Utama
+##  Fitur Utama
 
 * **Pemindaian Cerdas:** Deteksi tepi dokumen secara otomatis dengan pilihan mode *Manual* atau *Ambil Otomatis*.
 * **Pengaturan Kualitas:** Pilih kualitas gambar sesuai kebutuhan (**Low, Medium, High**).
@@ -19,13 +19,13 @@
 * **Pangkas & Putar:** Sesuaikan sudut dokumen dengan presisi sebelum disimpan.
 * **Scan Sejarah:** Kelola semua dokumen yang telah dipindai di satu tempat.
 
-## 🛠️ Teknologi & Tools
+##  Teknologi & Tools
 
 * **Bahasa Pemrograman:** Kotlin
 * **Platform:** Android SDK
 * **IDE:** Android Studio
 
-## 📸 Tampilan Aplikasi
+##  Tampilan Aplikasi
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9c4777f9-fba0-4364-83a7-b702ee650738" width="200" title="Splash Screen">
@@ -40,7 +40,7 @@
   <img src="https://github.com/user-attachments/assets/606fc1e6-d38d-4e83-9603-c329a789b31f" width="200" title="Final Result">
 </p>
 
-## 🚀 Cara Instalasi
+##  Cara Instalasi
 
 1. **Clone Repositori**
    ```bash
